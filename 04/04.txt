@@ -1,0 +1,7 @@
+Typecasting in Python
+
+Typecasting : converting one datatype to another.
+Python supports a wide variety of functions or methods like: int(), float(), str(), ord(), hex(), oct(), tuple(), set(), list(), dict(), etc. for the type casting in python.
+Two types : Explicit(to be done by user) and Implicit(done by python automatically)
+
+In Implicit python converts a smaller data type to a higher data type to prevent data loss.
