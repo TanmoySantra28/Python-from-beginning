@@ -1,0 +1,8 @@
+Arithmatic operators
+
++ Addition
+- Subtracttion
+* Multiplication
+/ Division
+// Floor Division (only returns the whole part)
+** Exponent (2**3 means 2*2*2)
