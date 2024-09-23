@@ -1,0 +1,16 @@
+variables
+
+variable : is like container that holds data.
+datatype : specifies the type of valuue that a variable stores.
+By default datatypes in Python :
+1. int = 3,0, -2
+2. float = 2.356
+3. complex = 6 + 2i
+4. str = "Tanmoy"
+5. boolean = True or false
+6. Sequenced datatypes
+list : is an ordered collection of data with elements separated by a comma and enclosed within square brackets, mutable
+tuple : is an ordered collection of data with elements separated by a comma and enclosed within parentheses, immutable 
+7. Mapped data
+dict : dictionary, is an unordered collection of data containing a key:value pair. The key:value pairs are enclosed within curly brackets.
+
