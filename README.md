@@ -1,2 +1,5 @@
 # Python-from-beginning
-Learning python from the beginning in a consistent way.
+print : print is used to print or display anything.
+"\n" : escape sequence character, used to print the line into next line.
+# : comment a single-line of code
+""" """ :
