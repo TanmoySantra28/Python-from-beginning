@@ -1,1 +1,3 @@
-Taking User Input
+Taking User Inputs
+
+Syntax : variable = input()
