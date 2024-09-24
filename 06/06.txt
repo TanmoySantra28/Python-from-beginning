@@ -1,0 +1,7 @@
+Strings in Python
+
+String must be written within "..." or '...'
+If we need to print double quotation, then it will be '..."..."...'
+""" """ or ''' ''': Multiline String
+In python, the string is like array of characters, for example String[0] will print the character at 0 index.
+We can use loop to traverse the string
