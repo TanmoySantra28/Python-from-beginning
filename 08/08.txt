@@ -1,0 +1,25 @@
+String Methods in Python
+
+Strings are immutable. String methods operates on existing string and return a new string
+lower() : convert to lowercase
+upper() : convert to uppercae
+strip() : removes any white spaces before and after the string.
+rstrip() : remove or strips the trailing characters.
+replace(old,new) : replaces all occurences of a string with another string.
+spilt() : splits the given string at the specified instance and returns the separated strings as list items.
+capitalize() : turns only the first character of the string to uppercase and the rest other characters of the string are turned to lowercase.
+center() : aligns the string to the center as per the parameters given by the user.
+count() : returns the number of times the given value has occurred within the given string.
+endswith() : checks if the string ends with a given value. If yes then return True, else return False,
+find() : searches for the first occurrence of the given value and returns the index where it is present. If given value is absent from the string then return -1.
+index() : searches for the first occurrence of the given value and returns the index where it is present. If given value is absent from the string then raise an exception.
+isalnum() : returns True only if the entire string only consists of A-Z, a-z, 0-9. If any other characters or punctuations are present, then it returns False.
+isalpha() : returns True only if the entire string only consists of A-Z, a-z. If any other characters or punctuations or numbers(0-9) are present, then it returns False.
+islower() : returns True if all the characters in the string are lower case, else it returns False.
+isupper() : returns True if all the characters in the string are upper case, else it returns False.
+isprintable() : returns True if all the values within the given string are printable, if not, then return False. Non-printable characters are "\n","\t" etc.
+isspace() : returns True only and only if the string contains white spaces, else returns False.
+istitle() : returns True only if the first letter of each word of the string is capitalized, else it returns False.
+startswith() : checks if the string starts with a given value. If yes then return True, else return False.
+swapcase() : changes the character casing of the string. Upper case are converted to lower case and lower case to upper case.
+title() : The title() method capitalizes each letter of the word within the string.
